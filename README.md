@@ -5,9 +5,9 @@ A command prompt interactive bank
 Make sure <a href="https://www.python.org/downloads/">python</a> is installed
 
 1. Download the file
-![How to download it](https://prnt.sc/svve6o)
-![How to download it](https://prnt.sc/svvfiu)
-![How to download it](https://prnt.sc/svvg6y)
+![How to download it 1](https://prnt.sc/svve6o)
+![How to download it 2](https://prnt.sc/svvfiu)
+![How to download it 3](https://prnt.sc/svvg6y)
 2. Open CMD or any IDE
 3. Execute this command: cd (your path) Example if you saved the file to downloads: cd C:\Users\(your pc username)\Downloads
 4. If you want to change some settings like the default PIN or the starting balance, right click on the atm.py file and click edit to edit it with notepad or your default editing softtware
