@@ -12,5 +12,3 @@ Make sure <a href="https://www.python.org/downloads/">python</a> is installed
 6. The default pin is 9999
 7. Choose an option by the number (1,2,3,4 or 5)
 8. If you choose the fourth option you'll need to enter the phone "123456789" (can be changed by editing the file) or the number will be invalid
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
