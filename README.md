@@ -1,6 +1,8 @@
 # python-bank
 A command prompt interactive bank
 
+# Python-bank revamped is coming soon! Stay tuned for a better python-bank system with account database and more! (It's 300 lines of code so it might take some time to develop)
+
 # How to install
 Make sure <a href="https://www.python.org/downloads/">python</a> is installed
 
